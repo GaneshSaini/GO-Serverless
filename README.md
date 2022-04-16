@@ -29,7 +29,7 @@ $ serverless deploy
 After running deploy, you should see output similar to:
 
 ```bash
-Deploying aws-node-project to stage dev (us-east-1)
+Deploying aws-node-project to stage dev (ap-south-1)
 
 ✔ Service deployed to stack aws-node-project-dev (112s)
 
